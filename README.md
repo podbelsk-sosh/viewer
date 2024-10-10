@@ -1,1 +1,1 @@
-# Вьювер PDF, xlsx, docx файлов
+# Вьювер PDF, XLSX, DOCX файлов
